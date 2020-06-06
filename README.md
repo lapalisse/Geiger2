@@ -8,9 +8,9 @@ Provides the following functionalities:
   - if you ask for an average on the previous hour, and only 26 minutes are available, just base the calculation on this
   - fast computing...
   
-Example:
+Example: <br>
 ...
-3537 127 0 0 0 17 127 2.1544 0.0143 uSv/h
+3537 127 0 0 0 17 127 2.1544 0.0143 uSv/h<br>
 3538 127 0 0 0 17 127 2.1538 0.0143 uSv/h
 3539 127 0 0 0 17 127 2.1532 0.0143 uSv/h
 3540 127 0 0 0 17 127 2.1525 0.0143 uSv/h

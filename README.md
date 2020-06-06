@@ -20,12 +20,12 @@ Example: <br>
 3544 127 0 0 0 17 127 2.1501 0.0142 uSv/h<br>
 
 In order:
-1/ number of seconds
-2/ clicks count
-3/ Clicks in past second
-4/ Clicks in past 10 seconds
-5/ Clicks in past 60 seconds
-6/ Clicks in past 10 minutes
-7/ Clicks in past 1 hour
-8/ Average clicks per second based on last hour data
-9/ Average radioactivity in uSv/h based on last hour data
+1. number of seconds
+2. clicks count
+3. Clicks in past second
+4. Clicks in past 10 seconds
+5. Clicks in past 60 seconds
+6. Clicks in past 10 minutes
+7. Clicks in past 1 hour
+8. Average clicks per second based on last hour data
+9. Average radioactivity in uSv/h based on last hour data

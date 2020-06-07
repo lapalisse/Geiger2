@@ -1,5 +1,7 @@
 # Geiger2
-Basic Arduino Geiger counter with a bit of a memory and a bit of intelligence
+Basic Arduino Geiger counter with a bit of a memory and a bit of intelligence.
+
+Let's say, this is step 2 in the long line of your Arduino Geiger counter software: just a bit more elaborate than the very basic one that just counts clicks.
 
 Provides the following functionalities:
   - displays number of clicks or radioactivity on past periods of time

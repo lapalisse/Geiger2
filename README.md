@@ -29,3 +29,6 @@ In order:
 7. Clicks in past 1 hour
 8. Average clicks per second based on last hour data
 9. Average radioactivity in uSv/h based on last hour data
+
+PS: Feel free to contact me on this subject
+You can also hire me if you want to do something elaborate, which requires special/original computing skills :-)

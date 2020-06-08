@@ -53,3 +53,7 @@ Thinking of another version of this software, how about the following ideas:
 1. Storing how much time your Geiger-Müller tube has been working for in the EEPROM (they don't last forever, and I think it makes sense to just know how much time they've been working)
 2. Storing data n seconds at a time, instead of for every second...
 3. Of course putting everything in a lovely portable box :-)
+
+# Simple design
+
+I think I like simple designs, and I want to keep this Arduino software simple, so that people can understand how it works. I'll probably create a Geiger3 which will be more sophisticated.

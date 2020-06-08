@@ -41,6 +41,8 @@ I've got a Mega2560, which has 8kbytes of SRAM, so I can store 30min of 16-bit v
 
 That said, another way to handle more data would be to store values not every second, but every say 10 seconds.
 
-You'll probably want to modify the MEMORY_SIZE constant.
+You'll probably want to modify the MEMORY_SIZE constant, which contains the max number of seconds you'll be storing click data. (don't forget to add 1!)
 
-Talk to me if you want this functionality.
+Using 16-bit values is another way to have more values, but you'll probably overflow after around 26 seconds of high radiation. So it's your choice, either to have a lot of values in memory, or to be able to handle high radiation doses...
+
+Talk to me if you want this functionality. :-)

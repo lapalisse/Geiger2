@@ -57,3 +57,10 @@ Thinking of another version of this software, how about the following ideas:
 # Simple design
 
 I think I like simple designs, and I want to keep this Arduino software simple, so that people can understand how it works. I'll probably create a Geiger3 which will be more sophisticated.
+
+# Commeing values
+
+I found a radioactivity of around 0.15 mSv/year at home, and this appears to be normal thanks to the following website:
+https://www.pascalchour.fr/ressources/cgm/cgm.html
+
+I am relieved to know that it's ok. :-)

@@ -22,8 +22,8 @@ Example: <br>
 3544 127 0 0 0 17 127 2.1501 0.0142 uSv/h<br>
 
 In order:
-1. number of seconds
-2. clicks count
+1. Number of seconds
+2. Clicks since boot
 3. Clicks in past second
 4. Clicks in past 10 seconds
 5. Clicks in past 60 seconds

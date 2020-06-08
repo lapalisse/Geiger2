@@ -41,4 +41,6 @@ I've got a Mega2560, which has 8kbytes of SRAM, so I can store 30min of 16-bit v
 
 That said, another way to handle more data would be to store values not every second, but every say 10 seconds.
 
+You'll probably want to modify the MEMORY_SIZE constant.
+
 Talk to me if you want this functionality.

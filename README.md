@@ -35,7 +35,7 @@ In order:
 PS: Feel free to contact me on this subject
 You can also hire me if you want to do something elaborate, which requires special/original computing skills :-)
 
-# How much memory
+# How much memory do I need?
 
 I've got a Mega2560, which has 8kbytes of SRAM, so I can store 30min of 16-bit values (every second), or 1 full hour of 32-bit values, but you may need to adapt this software to the limits of your card.
 

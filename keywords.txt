@@ -1,0 +1,8 @@
+# Datatypes
+click_count_t KEYWORD1
+
+# Methods...
+#KEYWORD2
+
+# Constants
+PARNOIA LITERAL1

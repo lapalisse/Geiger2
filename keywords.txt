@@ -2,7 +2,13 @@
 click_count_t KEYWORD1
 
 # Methods...
-#KEYWORD2
+normalize KEYWORD2
+count_clicks_since_last_seconds KEYWORD2
+avg_clicks_per_second_since_last_seconds KEYWORD2
+impulse KEYWORD2
 
 # Constants
-PARNOIA LITERAL1
+PARANOIA LITERAL1
+MEMORY_SIZE LITERAL1
+ONE_uSv_PER_HOUR_IN_CPM LITERAL1
+CONVERT_CPM_TO_uSv_PER_HOUR LITERAL1 
